@@ -1,7 +1,7 @@
 package com.hmdp.utils;
 
 /**
- *   
+ *  
  */
 public abstract class RegexPatterns {
     /**

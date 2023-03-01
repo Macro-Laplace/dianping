@@ -15,7 +15,7 @@ import java.time.LocalDateTime;
  * 
  * </p>
  *
- *   
+ *  
  * @since 2021-12-22
  */
 @Data
@@ -50,7 +50,7 @@ public class User implements Serializable {
     /**
      * 用户头像
      */
-    private String icon;
+    private String icon = "";
 
     /**
      * 创建时间
