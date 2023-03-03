@@ -16,7 +16,7 @@ import java.util.List;
  * 前端控制器
  * </p>
  *
- *   
+ *    
  */
 @RestController
 @RequestMapping("/shop-type")

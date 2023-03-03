@@ -11,8 +11,8 @@ import org.springframework.stereotype.Service;
  *  服务实现类
  * </p>
  *
- *   
- * @since 2021-12-22
+ *    
+ *      
  */
 @Service
 public class ShopTypeServiceImpl extends ServiceImpl<ShopTypeMapper, ShopType> implements IShopTypeService {
